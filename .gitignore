@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+!.env.test
+.idea/
+bin/
+tmp/
+*.log
+
+*.so
+*.test
+*.out
